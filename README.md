@@ -6,7 +6,7 @@ Eu sou Max William, **Desenvolvedor Front-end Júnior** com foco em **ReactJs** 
 
 Atualmente estou estudando ReactJs e React Native e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
 
-- 🔭 Atualmente desenvolvendo o Book4U
+- 🔭 Desenvolvendo o **Book4U**
 - 🌱 Aprendendo React e React Native
 - 👯 Em busca de uma oportunidade em Desenvolvimento Front-end Júnior
 
