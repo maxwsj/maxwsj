@@ -12,7 +12,7 @@ Atualmente estou estudando ReactJs e React Native e no último semestre do curso
 
 ### Mais sobre mim:
 
-[![Resume - CV](https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e)]()
+[![Resume - CV](https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e)](https://github.com/maxwsj/maxwsj/blob/main/Max%20William%20-%20(Portugues)%20CV.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/MaxWilliam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-william-41918b131/)
 
 ### Minhas Habilidades:
