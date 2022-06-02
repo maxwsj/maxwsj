@@ -2,12 +2,13 @@
 
 ---------------------------------------
 
-Eu sou Max William, **Analista de Sustentação Jr** com foco em **ReactJs** e **React Native**.
+Eu sou Max William, **Analista de Sustentação Jr** na **Cognizant** com foco em **Angular** e **.Net**.
 
 Atualmente estou estudando Angular e .Net e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
 
 - 📖 Desenvolvendo o **Book4U** (Aplicativo para Troca de Livros)
 - 🌱 Aprendendo Angular e .Net
+- 👩‍💻 Também possuo interesse no **Desenvolvimento Front-end**
 
 ### Mais sobre mim:
 
