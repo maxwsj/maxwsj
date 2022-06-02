@@ -2,13 +2,12 @@
 
 ---------------------------------------
 
-Eu sou Max William, **Desenvolvedor Front-end Júnior** com foco em **ReactJs** e **React Native**.
+Eu sou Max William, **Analista de Sustentação Jr** com foco em **ReactJs** e **React Native**.
 
-Atualmente estou estudando ReactJs e React Native e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
+Atualmente estou estudando Angular e .Net e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
 
 - 📖 Desenvolvendo o **Book4U** (Aplicativo para Troca de Livros)
-- 🌱 Aprendendo React e React Native
-- ✅ Em busca de uma oportunidade em Desenvolvimento Front-end Júnior
+- 🌱 Aprendendo Angular e .Net
 
 ### Mais sobre mim:
 
