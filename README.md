@@ -6,7 +6,7 @@ Bem vindo ! Eu sou Max, **Analista de Sustentação Jr** na **Cognizant** com fo
 
 Atualmente estou estudando Angular e .Net e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
 
-- 📖 Desenvolvendo o **Book4U** (Aplicativo para Troca de Livros)
+- 📖 Desenvolvedor do **Book4U** (Aplicativo para Troca de Livros)
 - 🌱 Aprendendo Angular e .Net
 - 👩‍💻 Também possuo interesse no **Desenvolvimento Front-end**
 
