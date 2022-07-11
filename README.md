@@ -4,7 +4,7 @@
 
 Bem vindo ! Eu sou Max, **Analista de Sustentação Jr** na **Cognizant** com foco em **Angular** e **.Net**.
 
-Atualmente estou estudando Angular e .Net e no último semestre do curso Técnico de Desenvolvimento de Sistemas.
+Atualmente estou estudando Angular e .Net.
 
 - 📖 Desenvolvedor do **Book4U** (Aplicativo para Troca de Livros)
 - 🌱 Aprendendo Angular e .Net
