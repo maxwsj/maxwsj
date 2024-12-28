@@ -47,4 +47,4 @@ Atualmente estou estudando Angular e .Net.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwsj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![](https://api.visitorbadge.io/api/VisitorHit?maxwsj=estruyf&repo=maxwsj&countColor=%237B1E7A)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmaxwsj&labelColor=%23d9e3f0&countColor=%23263759)
