@@ -2,12 +2,12 @@
 
 ---------------------------------------
 
-Bem vindo ! Eu sou Max, **Analista de Sustentação Jr** na **Cognizant** com foco em **Angular** e **.Net**.
+Bem vindo ! Eu sou Max, **Desenvolvedor Full Stack Pleno** na **Avanade** com foco em **React** e **.Net**.
 
-Atualmente estou estudando Angular e .Net.
+Atualmente estou estudando React e .Net.
 
 - 📖 Desenvolvedor do **Book4U** (Aplicativo para Troca de Livros)
-- 🌱 Aprendendo Angular e .Net
+- 🌱 Aprendendo React e .Net
 - 👩‍💻 Também possuo interesse no **Desenvolvimento Front-end**
 
 ### Mais sobre mim:
@@ -22,7 +22,7 @@ Atualmente estou estudando Angular e .Net.
 [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/maxwsj)
 
 ### Me aperfeiçoando em:
-[![AngularJs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/maxwsj)
+[![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/maxwsj)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/maxwsj)
 
 ### Outros conhecimentos:
