@@ -4,11 +4,10 @@
 
 Bem vindo ! Eu sou Max, **Desenvolvedor Full Stack Pleno** na **Avanade** com foco em **React** e **.Net**.
 
-Atualmente estou estudando React e .Net.
+Atualmente estou estudando React e TypeScript.
 
 - 📖 Desenvolvedor do **Book4U** (Aplicativo para Troca de Livros)
-- 🌱 Aprendendo React e .Net
-- 👩‍💻 Também possuo interesse no **Desenvolvimento Front-end**
+- 🌱 Aprendendo React, .Net e TypesScript
 
 ### Mais sobre mim:
 
@@ -24,6 +23,7 @@ Atualmente estou estudando React e .Net.
 ### Me aperfeiçoando em:
 [![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/maxwsj)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/maxwsj)
+[![Typescript]([https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square))](https://github.com/maxwsj)
 
 ### Outros conhecimentos:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/maxwsj)
