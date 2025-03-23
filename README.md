@@ -7,7 +7,7 @@ Bem vindo ! Eu sou Max, **Desenvolvedor Full Stack Pleno** na **Avanade** com fo
 Atualmente estou estudando React e TypeScript.
 
 - 📖 Desenvolvedor do **Book4U** (Aplicativo para Troca de Livros)
-- 🌱 Aprendendo React, .Net e TypesScript
+- 🌱 Me aperfeiçoando em React, .Net e TypesScript
 
 ### Mais sobre mim:
 
